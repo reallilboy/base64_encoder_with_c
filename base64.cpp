@@ -8,7 +8,7 @@ int main()
     
     const char* mapping = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
     /* created the input for encode*/
-    char input[100]="ali";
+    char input[100]="your string";
 
     int memory {0};
     int counter {0};
